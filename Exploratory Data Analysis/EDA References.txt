@@ -1,0 +1,7 @@
+Exploratory Data Analysis Topic Important Links:
+
+1. Complete Data Scientist = https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/notebook
+
+2. EDA Exerceise =  https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas/data#notebook-container
+
+3. Churn Rate = https://towardsdatascience.com/churn-prediction-770d6cb582a5
