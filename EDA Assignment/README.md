@@ -1,8 +1,7 @@
-# Day-2-ML-Challenge
-This is Day 2 Machine Learning Challenge.
+# Solution to Adult Data Set Assignment
 
-Use the repository to find the file which contains problem statements for todays challenge.
+This is the solution file to the assignment provided for ML community.
+Please refer this and feel free to fork, modify and use the code.
+Any corrections please do let me know!
 
-If you have received the link to the repository, meaning today's learning phase has ended and you're here to test your knowledge.
-
-Good Luck Solving Problems!
+Happy To Learn! :)
