@@ -1,5 +1,5 @@
-# Machine-Learning
+# Numpy Introduction
 
-This is my work en-route machine learning domain!
+Welcome to the Introduction to Numpy!
 
-I will be uploading my works on ML, assignments, working on various techniques and datasets, trying out new models, building new models etc
+This is a brief information on Numpy.
