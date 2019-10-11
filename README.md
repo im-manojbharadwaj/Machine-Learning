@@ -1,5 +1,5 @@
-# Machine-Learning
+# Predicting Survival Probability of Titanic Data Set
 
-This is my work en-route machine learning domain!
+This is my work predicting survival of passengers in Titanic which sank on April 15, 1912.
 
-I will be uploading my works on ML, assignments, working on various techniques and datasets, trying out new models, building new models etc
+I have used Linear Regression, KNN, Decision Classifier and Random Forest algorithm in the same file.
